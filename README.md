@@ -1,2 +1,26 @@
-# METAGRAM
-METAGRAM  - Instagram Veri Arama ve Analiz Platformu Profesyonel Instagram veri tarama, arama ve analiz yazılımı. Python ile geliştirilmiş, kullanıcı adı, e-posta ve telefon ile arama yapabilir.  💰 Fiyat: 2.000 TL | Pazarlık yapılabilir 📞 İletişim: discord.gg/keles  🔒 Lisans Gereklidir
+# 🔍 METAGRAM
+Dostlar biliyorsunuzki yakın zamanda instagramda bir database sızıntısı yaşandı . Ordaki data elimize geçti bizde bunu TOOL haline yapmaya karar verdik. 
+Öyle işte almazsan pişman olursun babus . Pazarlıklar serbestdir 2000 TL gözünüze çok geldiyse indirim yaparız yanına hediyelerde yollarız.
+
+-Ödeme
+
+-İban.
+-Epin siteleri.
+
+## Instagram Veri Arama ve Analiz Platformu
+
+### 📌 Özellikler
+- Kullanıcı adı ile arama
+- E-posta ile arama  
+- Telefon numarası ile arama
+- JSON veri analizi
+- Profesyonel raporlama
+
+### 💰 Fiyatlandırma
+- **Tam Sürüm:** 2.000 TL
+- **Demo:** Ücretsiz (sınırlı özellikler)
+- Pazarlık yapılabilir
+
+### 📞 İletişim
+- Email: business@metagram.pro
+- Telegram: @yourtelegram
