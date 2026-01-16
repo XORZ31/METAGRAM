@@ -18,9 +18,9 @@ Dostlar biliyorsunuzki yakın zamanda instagramda bir database sızıntısı ya�
 
 ### 💰 Fiyatlandırma
 - **Tam Sürüm:** 2.000 TL
-- **Demo:** Ücretsiz (sınırlı özellikler)
 - Pazarlık yapılabilir
 
 ### 📞 İletişim
-- Email: business@metagram.pro
-- Telegram: @yourtelegram
+- Email: destek@l9ga.com.tr
+- Telegram: @L9GAA
+- discord.gg/keles
